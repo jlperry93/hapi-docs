@@ -1,0 +1,22 @@
+{
+  "name": "hapi-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "boom": "^4.2.0",
+    "good": "^6.1.3",
+    "good-file": "^5.0.0",
+    "handlebars": "^4.0.6",
+    "hapi": "^8.8.1",
+    "hapi-auth-cookie": "^2.2.0",
+    "joi": "^10.2.2",
+    "uuid": "^3.0.1"
+  }
+}
